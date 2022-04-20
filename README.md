@@ -1,4 +1,4 @@
-- whoami
+whoami
 - 👋 Olá, eu sou @JoaoNeto4, formado em Sistemas de Informações pelo IFPR Campus Palmas-PR, sou apaixonado por tecnologia e desenvolvimento em Java. Sou amante da plataforma Linux e atualmente estou aprofundando meus conhecimentos em JavaScript, NodeJS, React e Spring Boot.
 - 👀 Atualmente trabalho como Analista de TI.
 - 🌱 Experiência com MySQL, PostgreSQL, Java, Shell Script, Spring Rest.
