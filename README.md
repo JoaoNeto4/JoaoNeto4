@@ -1,5 +1,5 @@
 ~# whoami
-- 👋 Olá, eu sou @JoaoNeto4, Mestrando em Informática pela UTFPR de Cornélio Procópio e formado em Sistemas de Informações pelo IFPR Campus Palmas-PR, sou apaixonado por tecnologia e desenvolvimento em Java. Sou amante da plataforma Linux e atualmente estou aprofundando meus conhecimentos em JavaScript, NodeJS, React, Server Faces, Angular e Spring Boot.
+- 👋 Olá, eu sou @JoaoNeto4, Mestrando em Informática pela UTFPR de Cornélio Procópio e formado em Sistemas de Informações pelo IFPR Campus Palmas-PR, sou apaixonado por tecnologia e desenvolvimento em Java. Sou amante da plataforma Linux e atualmente estou aprofundando meus conhecimentos em TypeScript, Server Faces, Angular e Spring Boot.
 - 👀 Atualmente trabalho como Analista de TI e Desenvolvimento com Java.
 - 🌱 Experiência com MySQL, PostgreSQL, Java, Shell Script, Spring Rest.
  
