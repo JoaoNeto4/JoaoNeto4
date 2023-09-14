@@ -1,5 +1,5 @@
 <h1>~# whoami </h1>
-- 👋 Olá, eu sou @JoaoNeto4, um apaixonado por tecnologia e desenvolvimento.
+- 👋 Hello, I'm @JoaoNeto4.
 <p>
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 
 
-- 🌱 Experiência com as seguintes técnologias:
+- 🌱 Some of the technologies worked on:
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=100px width=100px />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=90px width=100px />
