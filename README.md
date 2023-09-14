@@ -6,7 +6,6 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/joão-neto-b525351b0/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white])](https://www.facebook.com/joao.melena)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&labelColor=ff0000&logo=youtube&logoColor=white&link=https:)](https://youtu.be/FeN9vFEMeuA)
 </div>
 
