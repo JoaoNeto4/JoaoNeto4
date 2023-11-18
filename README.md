@@ -1,6 +1,11 @@
+
 <h1>~# whoami </h1>
 - 👋 Hello, I'm @JoaoNeto4.
 <p>
+    
+<div  align="center">
+<img src="https://komarev.com/ghpvc/?username=JoaoNeto4&style=flat-square&color=blue" alt=""/>
+</div>
 <div align="center">
 
 
