@@ -28,6 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height=80px width=100px />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=90px width=100px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=90px width=100px />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIPU1nqUSy_zfeoAvMydONS7zCDQJunldMH_UuE1QaIjj7MpwXnYglHpmdRAEMwJlX7s&usqp=CAU" height=70px width=80px />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=90px width=100px />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=80px width=100px />
 </div>
