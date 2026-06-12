@@ -2,8 +2,8 @@ name: "Conventional Commits Stats"
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -23,11 +23,12 @@ jobs:
           token: ${{ secrets.GH_REPOSITORY_METRICS }}
           base: header, activity, community, repositories
           
-          # Mostra as linguagens mais usadas
+          # Mantém o gráfico de linguagens que funcionou bem
           plugin_languages: yes
           plugin_languages_sections: most-used
           
-          # Ativa o histórico de linhas e commits detalhados
-          plugin_lines: yes
-          plugin_lines_sections: history # <--- Força o gráfico a criar a seção de histórico
-          plugin_lines_delay: 10
+          # ATIVAÇÃO DO FILTRO DE CONVENTIONAL COMMITS
+          plugin_commits: yes
+          plugin_commits_sections: detail
+          # Filtra e agrupa no gráfico exatamente pelas suas tags:
+          plugin_commits_search: "feat:, fix:, docs:, style:, refactor:, perf:, test:, build:, ci:, chore:, revert:"
