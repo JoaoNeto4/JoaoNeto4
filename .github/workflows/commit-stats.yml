@@ -20,7 +20,7 @@ jobs:
       - name: Generate Commit Chart
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_REGISTRY_TOKEN }}
+          token: ${{ secrets.GH_REPOSITORY_METRICS }}
           base: ""
           plugin_posts: yes
           plugin_posts_source: dev.to
