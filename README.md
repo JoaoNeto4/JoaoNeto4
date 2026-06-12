@@ -47,7 +47,9 @@
 <div align="center">
     <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/opencv.png" height=80px width=80px>
 </div>
-
+<div align="center">
+    ![Métricas de Commit](github-metrics.svg)
+</div>
 
 <!---
 JoaoNeto4/JoaoNeto4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
