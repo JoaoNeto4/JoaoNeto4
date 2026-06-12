@@ -4,7 +4,7 @@
 <p>
     
 <div  align="center">
-<img src="https://komarev.com/ghpvc/?username=JoaoNeto4&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=JoaoNeto4&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
 
@@ -48,7 +48,7 @@
     <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/opencv.png" height=80px width=80px>
 </div>
 <div align="center">
-    ![Métricas de Commit](github-metrics.svg)
+    <img src="github-metrics.svg?v=1" alt="Métricas de Commit"/>
 </div>
 
 <!---
