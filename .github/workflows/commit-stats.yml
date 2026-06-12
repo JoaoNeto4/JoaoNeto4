@@ -23,7 +23,11 @@ jobs:
           token: ${{ secrets.GH_REPOSITORY_METRICS }}
           base: header, activity, community, repositories
           
-          # Plugins válidos confirmados pelo seu log de erro:
+          # Mostra as linguagens mais usadas
           plugin_languages: yes
           plugin_languages_sections: most-used
+          
+          # Ativa o histórico de linhas e commits detalhados
           plugin_lines: yes
+          plugin_lines_sections: history # <--- Força o gráfico a criar a seção de histórico
+          plugin_lines_delay: 10
