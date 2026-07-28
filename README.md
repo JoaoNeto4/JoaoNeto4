@@ -1,57 +1,61 @@
-
 <h1>~# whoami </h1>
-- 👋 Hello, I'm @JoaoNeto4.
-<p>
-    
-<div  align="center">
-    <img src="https://komarev.com/ghpvc/?username=JoaoNeto4&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
 
+- 💻 **Analista de Sistemas & Desenvolvedor de Software**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/joão-neto-b525351b0/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&labelColor=ff0000&logo=youtube&logoColor=white&link=https:)](https://youtu.be/FeN9vFEMeuA)
-</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoNeto4&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  <br/><br/>
 
-
-- 🌱 Some of the technologies worked on:
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=100px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=90px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height=80px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=90px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height=90px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=80px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=80px width=100px />
-</div>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height=80px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=90px width=100px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=90px width=100px />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIPU1nqUSy_zfeoAvMydONS7zCDQJunldMH_UuE1QaIjj7MpwXnYglHpmdRAEMwJlX7s&usqp=CAU" height=70px width=80px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=90px width=100px />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height=80px width=100px />
-</div>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=80px width=100px />
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/springCloud.png" height=70px width=70px />
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/openapi.png" height=70px width=80px>
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/kaycloack.png" height=70px width=80px>
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/kafka.png" height=70px width=80px>
-</div>
-<div align="center">
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/Swagger.png" height=70px width=80px>
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/RabbitMQ.png" height=80px width=80px>
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/JPAHibernate.jpg" height=70px width=80px>
-</div>
-<div align="center">
-    <img src="https://github.com/JoaoNeto4/Eureka-Microservice/blob/main/img/img/opencv.png" height=80px width=80px>
-</div>
-<div align="center">
-    <img src="github-metrics.svg?v=1" alt="Métricas de Commit"/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-neto-b525351b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtu.be/FeN9vFEMeuA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
-<!---
-JoaoNeto4/JoaoNeto4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+### 🔭 Sobre & Atuação
+
+Analista de Sistemas e Desenvolvedor focado na construção de arquiteturas corporativas, desenvolvimento backend, integração de ecossistemas de gestão (ERP) e automação de infraestrutura em ambientes Linux/DevOps.
+
+
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat-square&logo=azure-devops&logoColor=white)
+
+---
+
+### 📬 Conecte-se comigo
+
+<div align="center">
+  <a href="https://didtec.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/DIDTec-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DIDTec Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-neto-b525351b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+<!--
+<div align="center">
+  <img src="github-metrics.svg?v=1" alt="Métricas de Commit"/>
+</div>
+-->
